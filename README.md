@@ -134,7 +134,6 @@ This project is created for educational purposes.
 
 **Made with ❤️ for Data Science**
 
-*Sir Asim Shah We Love You!* ❤️
 
 =======
 # Universal-Ml-Dashboard
