@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Universal ML Dashboard
 
 A comprehensive machine learning and data analysis tool that works with **any dataset** for regression tasks. Built with Python, Streamlit, and Scikit-learn.
@@ -135,3 +136,7 @@ This project is created for educational purposes.
 
 *Sir Asim Shah We Love You!* ❤️
 
+=======
+# Universal-Ml-Dashboard
+This project focuses on creating a generic and reusable dashboard that works with any CSV dataset, allowing users to: - Explore and understand data - Perform exploratory data analysis (EDA) - Train multiple machine learning regression models - Compare model performance using standard evaluation metrics  Make predictions and export results
+>>>>>>> 86659077f6629d098fb916ce851518386b3756e1
